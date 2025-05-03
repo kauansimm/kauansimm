@@ -11,7 +11,6 @@
   <img aling="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img aling="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img aling="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img aling="center" alt="typescript" src="img.shields.io/badge/TypeScript-eeeeee?style=for-the-badge&logo=typescript&logoColor=blue"/>
 </div> <br/>
 
 Apaixonado por tecnologia, buscando sempre evoluir.<br/>
