@@ -1,17 +1,17 @@
-## Olá! Eu sou o Kauan Simm 🖐🏻
+<p align="center">
+  <img src="https://via.placeholder.com/1200x300.png?text=Kauan+Simm+-+Frontend+Developer" alt="Kauan Simm Banner" />
+</p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kauan.simms/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauansimm)
+<h1 align="center">👋 Olá, eu sou o Kauan Simm</h1>
 
-## Tecnologias que uso no meu dia
+<p align="center">Desenvolvedor Front-end focado em criar interfaces modernas e funcionais.</p>
 
-<div style ="display: inline-block"><br/>
-  <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img aling="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img aling="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img aling="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img aling="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div> <br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,go,firebase,html,css,js" alt="Tech stack" />
+</p>
 
-Apaixonado por tecnologia, buscando sempre evoluir.<br/>
-Cursando Ciências da computação | Furb 💻
+<p align="center">
+  <a href="https://www.linkedin.com/in/kauan-simm-1446b62a7" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Kauan%20Simm-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
