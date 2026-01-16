@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Kauan+Simm+-+Frontend+Developer" alt="Kauan Simm Banner" />
+  <img src="https://img.freepik.com/free-photo/laptop-with-glowing-screen-table-dark-top-view-copy-space_169016-51607.jpg?semt=ais_hybrid&w=740&q=80" alt="Kauan Simm Banner" />
 </p>
 
 <h1 align="center">👋 Olá, eu sou o Kauan Simm</h1>
 
-<p align="center">Desenvolvedor Front-end focado em criar interfaces modernas e funcionais.</p>
+<p align="center">Desenvolvedor focado em criar aplicações modernas, intuitivas e funcionais.</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,typescript,go,firebase,html,css,js" alt="Tech stack" />
