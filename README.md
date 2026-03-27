@@ -3,7 +3,7 @@
 <p align="center">Desenvolvedor focado em criar aplicações modernas, intuitivas e funcionais.</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,go,firebase,html,css,js" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,go,firebase,html,css,node,python" alt="Tech stack" />
 </p>
 
 <p align="center">
