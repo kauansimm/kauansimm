@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá, eu sou o Kauan Simm</h1>
 
-<p align="center">Desenvolvedor focado em criar aplicações modernas, intuitivas e funcionais.</p>
+<p align="center">Como desenvolvedor, estou sempre em busca de novas soluções e desafios. Com disposição e vontade de aprender, venho dedicando meu tempo livre aos estudos. </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,typescript,go,firebase,docker,nodejs,python" alt="Tech stack" />
