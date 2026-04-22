@@ -1,6 +1,13 @@
 <h1 align="center">👋 Olá, eu sou o Kauan Simm</h1>
 
-<p align="center">Como desenvolvedor, estou sempre em busca de novas soluções e desafios. Com disposição e vontade de aprender, venho dedicando meu tempo livre aos estudos. </p>
+<p align="center">Sou um desenvolvedor Full-Stack focado em criar produtos digitais escaláveis, de alta performace e
+preparados para IA, unindo fundamentos de engenharia com visão de produto e impacto real para o
+negócio.
+Tenho facilidade para transitar entre camadas do sistema, gosto de entender o problema antes de
+escolher a solução.
+Valorizo o trabalho em equipe, a comunicação clara e o compartilhamento de conhecimento. Prezo pela
+organização, boas práticas de desenvolvimento e pelo desenvolvimento profissional constante.
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,typescript,go,firebase,docker,nodejs,python" alt="Tech stack" />
